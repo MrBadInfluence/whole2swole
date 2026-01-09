@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/auth/soloauth.tsx","./src/components/bodystats.tsx","./src/components/dashboard.tsx","./src/components/workouthistory.tsx","./src/components/workoutlogger.tsx","./src/lib/env.ts","./src/lib/supabaseclient.ts","./vite.config.ts"],"version":"5.9.3"}
